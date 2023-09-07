@@ -1,0 +1,32 @@
+{
+  "A": [
+    {
+      "fname": "sanjib",
+      "lname": "karki",
+      "address": "Tumlingtar",
+      "job": "student",
+      "id": 1
+    },
+    {
+      "fname": "Raj",
+      "lname": "Tamang",
+      "address": "kathmandu",
+      "job": "Teacher",
+      "id": 2
+    },
+    {
+      "fname": "sushil",
+      "lname": "karki",
+      "address": "Tikathali",
+      "job": "Student",
+      "id": 3
+    },
+    {
+      "fname": "Mohan",
+      "lname": "",
+      "address": "",
+      "job": "",
+      "id": 4
+    }
+  ]
+}
